@@ -1,0 +1,25 @@
+body{
+  background-color: #393E46;
+  margin: 8px;
+}
+h1{
+  font-family: Lobster;
+  text-align: center;
+  font-size: 8rem;
+  color: #4ECCA3;
+  margin: 20px;
+}
+.float-container{
+  text-align: center;
+}
+.float-child{
+  padding: 5%;
+  text-align: center;
+  display: inline-block;
+}
+img{
+  width: 100%;
+}
+footer{
+  text-align: center;
+}
